@@ -1164,10 +1164,11 @@ blockquote {
   top: 0; }
   .bg-struct.bg-img {
     background: url("../img/img-bg-1.jpg");
-    background-position: center;
+    background-position: stretch;
     background-size: cover; }
   .bg-struct.bg-img-2 {
-    background: url("../img/img-bg-2.jpg"); }
+    background: url("../img/header_bg.jpg");
+    background-size: cover;	}
   .bg-struct.bg-img-3 {
     background: url("../img/img-bg-3.jpg"); }
   .bg-struct.bg-img-4 {
